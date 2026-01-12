@@ -26,10 +26,11 @@ A Machine Learning-powered web application that helps farmers choose the most su
    source .venv/scripts/activate  # For Windows
 
 3. **Install dependencies:**
+
    pip install -r requirements.txt
 
 
-4. **Run the application:**
+5. **Run the application:**
 
    streamlit run app.py
 
