@@ -21,16 +21,17 @@ A Machine Learning-powered web application that helps farmers choose the most su
    cd crop-recommendation-system
 
 2. **Create a virtual environment:**
-
+   ```bash
    python -m venv .venv
    source .venv/scripts/activate  # For Windows
 
 3. **Install dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 
-4. **Run the application:**
-
+5. **Run the application:**
+   ```bash
    streamlit run app.py
 
 
