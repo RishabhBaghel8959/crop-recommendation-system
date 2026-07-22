@@ -48,7 +48,7 @@ class CropRecommendationModel:
     def load_and_preprocess_data(self, data_path):
         """Load and preprocess the crop recommendation dataset"""
         try:
-            # Try different encodings
+            
             try:
                 df = pd.read_csv("D:\\Ankita Project\\Crop_recommendation.csv"
 )
